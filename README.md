@@ -45,7 +45,8 @@ budget groceries 50000
 
 ## 🖼 Screenshots
 
-> Add your Telegram screenshots here to show the bot in action. Example:
+1. Start command
+2. Summary command
 
 ![Start Command](start.png)  
 ![Summary Example](summary.png)
