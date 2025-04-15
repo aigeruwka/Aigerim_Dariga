@@ -25,7 +25,7 @@ A simple Telegram bot that helps users track income, budgets, and view summaries
 | `/config`     | View your configured categories             |
 | `/notifyon`   | Enable notifications                        |
 | `/notifyoff`  | Disable notifications                       |
-
+| `/reset`      | Delete all data                             |
 ---
 
 ## 📝 Logging Format
@@ -34,11 +34,13 @@ Use the following format to log data:
 
 income category amount
 budget category amount
+expense category amount
 
 
 **Example**:
 income salary 150000
 budget groceries 50000
+expense food 1500
 
 
 ---
